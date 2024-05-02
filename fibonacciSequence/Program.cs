@@ -4,9 +4,7 @@
     class Program
     {
         static void Main(string[] args)
-            // Fibonacciv2 homework, create this using lists 
-
-        {   // 0 1 1 2 3 5 8 13 21
+        {   // 0 1 1 2 3 5 8 13 21...
             // creates int variables
             int A = 0;
             int B = 0;
@@ -15,7 +13,7 @@
             // counts how many numbers you write in Fibonacci
             for (int i = 0;  i <= 20; i++)
             {
-                // this writes 1 in the first space
+            // this writes 1 in the first space
             if (A == 0)
             {
                     A = 1;
